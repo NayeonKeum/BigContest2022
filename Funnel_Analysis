@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T10:21:07.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="vMECr2RdaWl5c9Q5R_6m" type="github"><diagram id="fgxPNW1bnliRQV0Oeipx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-03T10:25:29.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dNHlk_uGCMX_mDbPKqAF" version="20.3.0" type="github">
+  <diagram id="fgxPNW1bnliRQV0Oeipx" name="페이지-1">
+    <mxGraphModel dx="514" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VJpjYlAgtQ4hQe3MyaRt-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;한도조회 인트로 페이지 조회&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJpjYlAgtQ4hQe3MyaRt-3" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;한도조회 시작하기 버튼 클릭&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D1DBFC;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJpjYlAgtQ4hQe3MyaRt-4" value="&lt;span style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;본인인증완료&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0CFFC;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJpjYlAgtQ4hQe3MyaRt-5" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;한도조회&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;결과 확인&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#86BDFC;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="370" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
